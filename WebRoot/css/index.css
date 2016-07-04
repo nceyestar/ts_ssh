@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+.s_title
+{
+	font-family: "隶书";
+	font-size: 48px;
+	background-color: #B08D00;
+	font-weight: bold; /* 字体加粗 */    
+	color: #FFF8DB;
+    
+}
+
+.s_notify
+{
+	font-size: 12px;
+	font-weight: bold; /* 字体加粗 */    
+	color: #B08D00;
+    
+}
+
+.s_space
+{
+	height:60px;
+}
